@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicAtoutV1_Passelande_Kenzo", "MusicAtoutV1_Passelande_Kenzo\MusicAtoutV1_Passelande_Kenzo.csproj", "{3DCF116A-4AC2-4D01-9A04-6D7C3B484753}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DCF116A-4AC2-4D01-9A04-6D7C3B484753}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DCF116A-4AC2-4D01-9A04-6D7C3B484753}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DCF116A-4AC2-4D01-9A04-6D7C3B484753}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DCF116A-4AC2-4D01-9A04-6D7C3B484753}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DA09B07-75BB-4B6D-B15B-048C53327D16}
+	EndGlobalSection
+EndGlobal
